@@ -40,29 +40,27 @@ def split():
                 try:
                     name, b_year = re.findall(
                         r'([а-яА-Я\s]*).*(\d{4}).*г\.р', l)[0]
-                    a_yr = re.findall(r'Арестован.*?(\d{4})', l)
-                    s_yr = re.findall(r'Приговорен.*?(\d{4})', l)
-                    r_yr = re.findall(r'Реабилитирован.*?(\d{4})', l)
+                    # b_place = re.findall(
+                    #     r'г\.р\.*,*\s*(?:уроженка|уроженец)?\s*(?:ст\.|с\.|г\.)?(.*?)\.', l)[0]
+                    a_yr = re.findall(r'Арестован.*?([\.\d]+\d{4})', l)
+                    s_yr = re.findall(r'Приговорен.*?([\.\d]+\d{4})', l)
+                    r_yr = re.findall(r'Реабилитирован.*?([\.\d]+\d{4})', l)
 
-                    row = [name, b_year]
-                    for x in [a_yr, s_yr, r_yr]:
-                        if len(x) > 1:
-                            raise
+                    row = [name,
+                           b_year,
+                           a_yr[0] if a_yr else '',
+                           s_yr[0] if s_yr else '',
+                           r_yr[0] if r_yr else 'ERR']
 
-                    if a_yr:
-                        row.append(a_yr[0])
-                    elif s_yr:
-                        row.append(s_yr[0])
-                    else:
-                        row.append('ERR')
-                    row.append(r_yr[0])
-
-                    sent = sentence(l.split('заменен')[1]
-                                    if 'заменен' in l else l)
+                    sent = sentence(
+                        l.split('заменен')[1]
+                        if 'заменен' in l
+                        else l
+                    )
                     row.append(sent if sent else 'ERR')
 
                 except:
-                    row = ['ERR']+['']*4
+                    row = ['ERR']+['']*5
 
                 row.append(l)
                 fw.write('|'.join(row))
