@@ -1,0 +1,916 @@
+{
+    "@id": "/catalogs/dagestan1888/records",
+    "@type": "hydra:Collection",
+    "hydra:totalItems": 34,
+    "hydra:member": [
+        {
+            "uuid": "abd13d82-675f-40e3-896e-524bb0bfb988",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "735",
+            "record_text": "Уркарах",
+            "smokes": "426",
+            "man": "1041",
+            "women": "958",
+            "residents": "1999",
+            "ethnicity": "лезгины",
+            "religion": "мусульмане суниты",
+            "language": "кайтагский",
+            "settlements": [
+                {
+                    "@context": "/contexts/Settlement",
+                    "@id": "/settlements/a3e22a91-e05b-415c-a1a4-61eb7c88ca88",
+                    "@type": "Settlement",
+                    "names": [
+                        {
+                            "settlement": "/settlements/a3e22a91-e05b-415c-a1a4-61eb7c88ca88",
+                            "language": {
+                                "name": "русский",
+                                "code": "ru"
+                            },
+                            "name": "Уркарах"
+                        }
+                    ],
+                    "primaryName": {
+                        "settlement": "/settlements/a3e22a91-e05b-415c-a1a4-61eb7c88ca88",
+                        "language": {
+                            "name": "русский",
+                            "code": "ru"
+                        },
+                        "name": "Уркарах"
+                    },
+                    "additionalNames": [],
+                    "description": null,
+                    "type": {
+                        "name": {
+                            "ru": "село"
+                        }
+                    },
+                    "status": {
+                        "name": {
+                            "ru": "жилой"
+                        }
+                    },
+                    "coordinate": {
+                        "type": "Point",
+                        "coordinates": [
+                            47.6305067,
+                            42.163809
+                        ]
+                    },
+                    "lastUpdatedAt": "2023-10-30T08:45:51+00:00",
+                    "createdAt": "2021-03-20T07:07:40+00:00",
+                    "isFavorite": false,
+                    "stringNames": [],
+                    "nearestSettlements": [],
+                    "isVisible": true,
+                    "bookmarkedAt": null,
+                    "mainGeorequisite": {
+                        "level1": "Республика Дагестан",
+                        "level2": "Дахадаевский муниципальный район",
+                        "year": 2019
+                    },
+                    "excerpts": []
+                }
+            ],
+            "persons": [],
+            "parishes": [],
+            "page": {
+                "uuid": "ace8d444-7f87-4e51-8164-75d7d1f1426a",
+                "title": "43",
+                "page_number": "43",
+                "order_number": 430,
+                "image_path": "/images/catalogs/dagestan1888/043.jpg",
+                "@id": "/catalogs/dagestan1888/pages/ace8d444-7f87-4e51-8164-75d7d1f1426a"
+            },
+            "@id": "/catalogs/dagestan1888/records/abd13d82-675f-40e3-896e-524bb0bfb988",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "ac134568-8683-450e-8fca-63b5f5f4de6c",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "736",
+            "record_text": "Шулерчи",
+            "smokes": "31",
+            "man": "59",
+            "women": "53",
+            "residents": "112",
+            "ethnicity": "лезгины",
+            "religion": "мусульмане суниты",
+            "language": "кайтагский",
+            "settlements": [
+                {
+                    "@context": "/contexts/Settlement",
+                    "@id": "/settlements/79cc7909-a9ca-4f77-b838-3a344ecf248a",
+                    "@type": "Settlement",
+                    "names": [
+                        {
+                            "settlement": "/settlements/79cc7909-a9ca-4f77-b838-3a344ecf248a",
+                            "language": {
+                                "name": "русский",
+                                "code": "ru"
+                            },
+                            "name": "Шулерчи"
+                        }
+                    ],
+                    "primaryName": {
+                        "settlement": "/settlements/79cc7909-a9ca-4f77-b838-3a344ecf248a",
+                        "language": {
+                            "name": "русский",
+                            "code": "ru"
+                        },
+                        "name": "Шулерчи"
+                    },
+                    "additionalNames": [],
+                    "description": null,
+                    "type": {
+                        "name": {
+                            "ru": "село"
+                        }
+                    },
+                    "status": {
+                        "name": {
+                            "ru": "жилой"
+                        }
+                    },
+                    "coordinate": {
+                        "type": "Point",
+                        "coordinates": [
+                            47.563164,
+                            42.137051
+                        ]
+                    },
+                    "lastUpdatedAt": "2023-10-30T08:45:51+00:00",
+                    "createdAt": "2021-03-20T07:07:40+00:00",
+                    "isFavorite": false,
+                    "stringNames": [],
+                    "nearestSettlements": [],
+                    "isVisible": true,
+                    "bookmarkedAt": null,
+                    "mainGeorequisite": {
+                        "level1": "Республика Дагестан",
+                        "level2": "Дахадаевский муниципальный район",
+                        "year": 2019
+                    },
+                    "excerpts": []
+                }
+            ],
+            "persons": [],
+            "parishes": [],
+            "page": {
+                "uuid": "ace8d444-7f87-4e51-8164-75d7d1f1426a",
+                "title": "43",
+                "page_number": "43",
+                "order_number": 430,
+                "image_path": "/images/catalogs/dagestan1888/043.jpg",
+                "@id": "/catalogs/dagestan1888/pages/ace8d444-7f87-4e51-8164-75d7d1f1426a"
+            },
+            "@id": "/catalogs/dagestan1888/records/ac134568-8683-450e-8fca-63b5f5f4de6c",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "ac93e094-dbf8-4754-93cb-8fd8574b8ba9",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "737",
+            "record_text": "Чишили",
+            "smokes": "52",
+            "man": "180",
+            "women": "136",
+            "residents": "316",
+            "ethnicity": "лезгины",
+            "religion": "мусульмане суниты",
+            "language": "кайтагский",
+            "settlements": [
+                {
+                    "@context": "/contexts/Settlement",
+                    "@id": "/settlements/8ade0772-c2f8-4273-ab42-6d94963946ea",
+                    "@type": "Settlement",
+                    "names": [
+                        {
+                            "settlement": "/settlements/8ade0772-c2f8-4273-ab42-6d94963946ea",
+                            "language": {
+                                "name": "русский",
+                                "code": "ru"
+                            },
+                            "name": "Чишили"
+                        }
+                    ],
+                    "primaryName": {
+                        "settlement": "/settlements/8ade0772-c2f8-4273-ab42-6d94963946ea",
+                        "language": {
+                            "name": "русский",
+                            "code": "ru"
+                        },
+                        "name": "Чишили"
+                    },
+                    "additionalNames": [],
+                    "description": null,
+                    "type": {
+                        "name": {
+                            "ru": "село"
+                        }
+                    },
+                    "status": {
+                        "name": {
+                            "ru": "жилой"
+                        }
+                    },
+                    "coordinate": {
+                        "type": "Point",
+                        "coordinates": [
+                            47.668858,
+                            42.151371
+                        ]
+                    },
+                    "lastUpdatedAt": "2023-10-30T08:45:51+00:00",
+                    "createdAt": "2021-03-20T07:07:40+00:00",
+                    "isFavorite": false,
+                    "stringNames": [],
+                    "nearestSettlements": [],
+                    "isVisible": true,
+                    "bookmarkedAt": null,
+                    "mainGeorequisite": {
+                        "level1": "Республика Дагестан",
+                        "level2": "Дахадаевский муниципальный район",
+                        "year": 2019
+                    },
+                    "excerpts": []
+                }
+            ],
+            "persons": [],
+            "parishes": [],
+            "page": {
+                "uuid": "ace8d444-7f87-4e51-8164-75d7d1f1426a",
+                "title": "43",
+                "page_number": "43",
+                "order_number": 430,
+                "image_path": "/images/catalogs/dagestan1888/043.jpg",
+                "@id": "/catalogs/dagestan1888/pages/ace8d444-7f87-4e51-8164-75d7d1f1426a"
+            },
+            "@id": "/catalogs/dagestan1888/records/ac93e094-dbf8-4754-93cb-8fd8574b8ba9",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "acd5e87e-8b42-420a-9df3-2c2a7f240bf0",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "738",
+            "record_text": "Кубачи",
+            "smokes": "507",
+            "man": "1183",
+            "women": "1042",
+            "residents": "2225",
+            "ethnicity": "лезгины",
+            "religion": "мусульмане суниты",
+            "language": "кайтагский",
+            "settlements": [
+                {
+                    "@context": "/contexts/Settlement",
+                    "@id": "/settlements/ecab3291-2356-4ad6-bc36-4a8b4b3395a4",
+                    "@type": "Settlement",
+                    "names": [
+                        {
+                            "settlement": "/settlements/ecab3291-2356-4ad6-bc36-4a8b4b3395a4",
+                            "language": {
+                                "name": "русский",
+                                "code": "ru"
+                            },
+                            "name": "Кубачи"
+                        }
+                    ],
+                    "primaryName": {
+                        "settlement": "/settlements/ecab3291-2356-4ad6-bc36-4a8b4b3395a4",
+                        "language": {
+                            "name": "русский",
+                            "code": "ru"
+                        },
+                        "name": "Кубачи"
+                    },
+                    "additionalNames": [],
+                    "description": null,
+                    "type": {
+                        "name": {
+                            "ru": "село"
+                        }
+                    },
+                    "status": {
+                        "name": {
+                            "ru": "жилой"
+                        }
+                    },
+                    "coordinate": {
+                        "type": "Point",
+                        "coordinates": [
+                            47.5977092,
+                            42.0950955
+                        ]
+                    },
+                    "lastUpdatedAt": "2023-10-30T08:45:51+00:00",
+                    "createdAt": "2021-03-20T07:07:40+00:00",
+                    "isFavorite": false,
+                    "stringNames": [],
+                    "nearestSettlements": [],
+                    "isVisible": true,
+                    "bookmarkedAt": null,
+                    "mainGeorequisite": {
+                        "level1": "Республика Дагестан",
+                        "level2": "Дахадаевский муниципальный район",
+                        "year": 2019
+                    },
+                    "excerpts": []
+                }
+            ],
+            "persons": [],
+            "parishes": [],
+            "page": {
+                "uuid": "ace8d444-7f87-4e51-8164-75d7d1f1426a",
+                "title": "43",
+                "page_number": "43",
+                "order_number": 430,
+                "image_path": "/images/catalogs/dagestan1888/043.jpg",
+                "@id": "/catalogs/dagestan1888/pages/ace8d444-7f87-4e51-8164-75d7d1f1426a"
+            },
+            "@id": "/catalogs/dagestan1888/records/acd5e87e-8b42-420a-9df3-2c2a7f240bf0",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "acd747a4-d451-458f-9e41-32d2d1768e4f",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "739",
+            "record_text": "Кара-Курейш",
+            "smokes": "56",
+            "man": "143",
+            "women": "121",
+            "residents": "264",
+            "ethnicity": "лезгины",
+            "religion": "мусульмане суниты",
+            "language": "кайтагский",
+            "persons": [],
+            "parishes": [],
+            "settlements": [],
+            "page": {
+                "uuid": "ace8d444-7f87-4e51-8164-75d7d1f1426a",
+                "title": "43",
+                "page_number": "43",
+                "order_number": 430,
+                "image_path": "/images/catalogs/dagestan1888/043.jpg",
+                "@id": "/catalogs/dagestan1888/pages/ace8d444-7f87-4e51-8164-75d7d1f1426a"
+            },
+            "@id": "/catalogs/dagestan1888/records/acd747a4-d451-458f-9e41-32d2d1768e4f",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "ace7701a-9898-441a-9386-ed6707af4978",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "740",
+            "record_text": "Маджалис мусульм.",
+            "smokes": "185",
+            "man": "440",
+            "women": "422",
+            "residents": "862",
+            "ethnicity": "татары",
+            "religion": "мусульмане суниты",
+            "language": "татарский",
+            "settlements": [
+                {
+                    "@context": "/contexts/Settlement",
+                    "@id": "/settlements/4931a143-939a-4c8a-8b18-3599572a9d89",
+                    "@type": "Settlement",
+                    "names": [
+                        {
+                            "settlement": "/settlements/4931a143-939a-4c8a-8b18-3599572a9d89",
+                            "language": {
+                                "name": "русский",
+                                "code": "ru"
+                            },
+                            "name": "Маджалис"
+                        }
+                    ],
+                    "primaryName": {
+                        "settlement": "/settlements/4931a143-939a-4c8a-8b18-3599572a9d89",
+                        "language": {
+                            "name": "русский",
+                            "code": "ru"
+                        },
+                        "name": "Маджалис"
+                    },
+                    "additionalNames": [],
+                    "description": null,
+                    "type": {
+                        "name": {
+                            "ru": "село"
+                        }
+                    },
+                    "status": {
+                        "name": {
+                            "ru": "жилой"
+                        }
+                    },
+                    "coordinate": {
+                        "type": "Point",
+                        "coordinates": [
+                            47.8343423,
+                            42.1206478
+                        ]
+                    },
+                    "lastUpdatedAt": "2023-10-30T08:45:51+00:00",
+                    "createdAt": "2021-03-20T07:07:40+00:00",
+                    "isFavorite": false,
+                    "stringNames": [],
+                    "nearestSettlements": [],
+                    "isVisible": true,
+                    "bookmarkedAt": null,
+                    "mainGeorequisite": {
+                        "level1": "Республика Дагестан",
+                        "level2": "Кайтагский муниципальный район",
+                        "year": 2019
+                    },
+                    "excerpts": []
+                }
+            ],
+            "persons": [],
+            "parishes": [],
+            "page": {
+                "uuid": "ace8d444-7f87-4e51-8164-75d7d1f1426a",
+                "title": "43",
+                "page_number": "43",
+                "order_number": 430,
+                "image_path": "/images/catalogs/dagestan1888/043.jpg",
+                "@id": "/catalogs/dagestan1888/pages/ace8d444-7f87-4e51-8164-75d7d1f1426a"
+            },
+            "@id": "/catalogs/dagestan1888/records/ace7701a-9898-441a-9386-ed6707af4978",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "ad68777d-865b-4718-9b2a-28180f81e393",
+            "is_comment": true,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": null,
+            "record_text": "Маджалис евреев",
+            "smokes": "124",
+            "man": "321",
+            "women": "282",
+            "residents": "603",
+            "ethnicity": "евреи",
+            "religion": "иудейского",
+            "language": "еврейский",
+            "persons": [],
+            "parishes": [],
+            "settlements": [],
+            "page": {
+                "uuid": "ace8d444-7f87-4e51-8164-75d7d1f1426a",
+                "title": "43",
+                "page_number": "43",
+                "order_number": 430,
+                "image_path": "/images/catalogs/dagestan1888/043.jpg",
+                "@id": "/catalogs/dagestan1888/pages/ace8d444-7f87-4e51-8164-75d7d1f1426a"
+            },
+            "@id": "/catalogs/dagestan1888/records/ad68777d-865b-4718-9b2a-28180f81e393",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "ae0460b3-ea96-44d2-a191-d60dd9e3c9a6",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "741",
+            "record_text": "Ирача",
+            "smokes": "26",
+            "man": "63",
+            "women": "59",
+            "residents": "122",
+            "ethnicity": "лезгины",
+            "religion": "мусульмане суниты",
+            "language": "кайтагский",
+            "settlements": [
+                {
+                    "@context": "/contexts/Settlement",
+                    "@id": "/settlements/580bc812-4ffe-4b00-93e0-c2188ddff14b",
+                    "@type": "Settlement",
+                    "names": [
+                        {
+                            "settlement": "/settlements/580bc812-4ffe-4b00-93e0-c2188ddff14b",
+                            "language": {
+                                "name": "русский",
+                                "code": "ru"
+                            },
+                            "name": "Иричи"
+                        }
+                    ],
+                    "primaryName": {
+                        "settlement": "/settlements/580bc812-4ffe-4b00-93e0-c2188ddff14b",
+                        "language": {
+                            "name": "русский",
+                            "code": "ru"
+                        },
+                        "name": "Иричи"
+                    },
+                    "additionalNames": [],
+                    "description": null,
+                    "type": {
+                        "name": {
+                            "ru": "село"
+                        }
+                    },
+                    "status": {
+                        "name": {
+                            "ru": "жилой"
+                        }
+                    },
+                    "coordinate": {
+                        "type": "Point",
+                        "coordinates": [
+                            47.791843,
+                            42.135242
+                        ]
+                    },
+                    "lastUpdatedAt": "2023-10-30T08:45:51+00:00",
+                    "createdAt": "2021-03-20T07:07:40+00:00",
+                    "isFavorite": false,
+                    "stringNames": [],
+                    "nearestSettlements": [],
+                    "isVisible": true,
+                    "bookmarkedAt": null,
+                    "mainGeorequisite": {
+                        "level1": "Республика Дагестан",
+                        "level2": "Кайтагский муниципальный район",
+                        "year": 2019
+                    },
+                    "excerpts": []
+                }
+            ],
+            "persons": [],
+            "parishes": [],
+            "page": {
+                "uuid": "add2f7cb-02c6-4b60-b18a-1dd77bec447a",
+                "title": "44",
+                "page_number": "44",
+                "order_number": 440,
+                "image_path": "/images/catalogs/dagestan1888/044.jpg",
+                "@id": "/catalogs/dagestan1888/pages/add2f7cb-02c6-4b60-b18a-1dd77bec447a"
+            },
+            "@id": "/catalogs/dagestan1888/records/ae0460b3-ea96-44d2-a191-d60dd9e3c9a6",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "ae09239a-3ebe-4ffd-a7d7-bed04c1cdde0",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "742",
+            "record_text": "Дарша",
+            "smokes": "25",
+            "man": "59",
+            "women": "44",
+            "residents": "103",
+            "ethnicity": "лезгины",
+            "religion": "мусульмане суниты",
+            "language": "кайтагский",
+            "persons": [],
+            "parishes": [],
+            "settlements": [],
+            "page": {
+                "uuid": "add2f7cb-02c6-4b60-b18a-1dd77bec447a",
+                "title": "44",
+                "page_number": "44",
+                "order_number": 440,
+                "image_path": "/images/catalogs/dagestan1888/044.jpg",
+                "@id": "/catalogs/dagestan1888/pages/add2f7cb-02c6-4b60-b18a-1dd77bec447a"
+            },
+            "@id": "/catalogs/dagestan1888/records/ae09239a-3ebe-4ffd-a7d7-bed04c1cdde0",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        },
+        {
+            "uuid": "ae39f961-9a51-4d23-9e1c-95454cdc7633",
+            "is_comment": false,
+            "start_coord_margin_left": 0,
+            "start_coord_margin_top": 0,
+            "end_coord_margin_left": 0,
+            "end_coord_margin_top": 0,
+            "group_name": "Кайтого-Табасаранский округ, Уркарахское наибство",
+            "parent_id": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+            "owner_level": 2,
+            "number": "743",
+            "record_text": "Чайтикна",
+            "smokes": "36",
+            "man": "90",
+            "women": "68",
+            "residents": "158",
+            "ethnicity": "лезгины",
+            "religion": "мусульмане суниты",
+            "language": "кайтагский",
+            "settlements": [
+                {
+                    "@context": "/contexts/Settlement",
+                    "@id": "/settlements/fed70898-a5b9-4096-8730-938ec97654d8",
+                    "@type": "Settlement",
+                    "names": [
+                        {
+                            "settlement": "/settlements/fed70898-a5b9-4096-8730-938ec97654d8",
+                            "language": {
+                                "name": "русский",
+                                "code": "ru"
+                            },
+                            "name": "Чахдикна"
+                        }
+                    ],
+                    "primaryName": {
+                        "settlement": "/settlements/fed70898-a5b9-4096-8730-938ec97654d8",
+                        "language": {
+                            "name": "русский",
+                            "code": "ru"
+                        },
+                        "name": "Чахдикна"
+                    },
+                    "additionalNames": [],
+                    "description": null,
+                    "type": {
+                        "name": {
+                            "ru": "село"
+                        }
+                    },
+                    "status": {
+                        "name": {
+                            "ru": "жилой"
+                        }
+                    },
+                    "coordinate": {
+                        "type": "Point",
+                        "coordinates": [
+                            47.761337,
+                            42.140903
+                        ]
+                    },
+                    "lastUpdatedAt": "2023-10-30T08:45:51+00:00",
+                    "createdAt": "2021-03-20T07:07:40+00:00",
+                    "isFavorite": false,
+                    "stringNames": [],
+                    "nearestSettlements": [],
+                    "isVisible": true,
+                    "bookmarkedAt": null,
+                    "mainGeorequisite": {
+                        "level1": "Республика Дагестан",
+                        "level2": "Кайтагский муниципальный район",
+                        "year": 2019
+                    },
+                    "excerpts": []
+                }
+            ],
+            "persons": [],
+            "parishes": [],
+            "page": {
+                "uuid": "add2f7cb-02c6-4b60-b18a-1dd77bec447a",
+                "title": "44",
+                "page_number": "44",
+                "order_number": 440,
+                "image_path": "/images/catalogs/dagestan1888/044.jpg",
+                "@id": "/catalogs/dagestan1888/pages/add2f7cb-02c6-4b60-b18a-1dd77bec447a"
+            },
+            "@id": "/catalogs/dagestan1888/records/ae39f961-9a51-4d23-9e1c-95454cdc7633",
+            "parent": {
+                "uuid": "8c1b31f7-dddc-49ed-8171-9c8dc9ce941b",
+                "name_ru": "Уркарахское наибство",
+                "chain_name_ru": "Кайтого-Табасаранский округ, Уркарахское наибство",
+                "center_ru": "",
+                "description": "",
+                "parent_id": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                "level": 2,
+                "parent": {
+                    "uuid": "82d43818-8c61-4cc2-a9b7-d28f3e07fa10",
+                    "name_ru": "Кайтого-Табасаранский округ",
+                    "chain_name_ru": "Кайтого-Табасаранский округ",
+                    "center_ru": "",
+                    "description": "",
+                    "parent_id": null,
+                    "level": 1,
+                    "parent": null
+                }
+            }
+        }
+    ],
+    "hydra:view": {
+        "@id": "/catalogs/dagestan1888/records?parent=8c1b31f7-dddc-49ed-8171-9c8dc9ce941b&page=1",
+        "@type": "hydra:PartialCollectionView",
+        "hydra:first": "/catalogs/dagestan1888/records?page=1",
+        "hydra:last": "/catalogs/dagestan1888/records?page=4",
+        "hydra:next": "/catalogs/dagestan1888/records?page=2"
+    }
+}
